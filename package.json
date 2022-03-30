@@ -11,7 +11,7 @@
     "type": "git",
     "url": "/"
   },
-  "author": "spti",
+  "author": "gottfried",
   "license": "MIT",
   "devDependencies": {
     "babel-cli": "^6.26.0",
