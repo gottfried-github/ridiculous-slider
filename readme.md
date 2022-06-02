@@ -1,6 +1,6 @@
 # Ridiculous Slider
 **Note:** This is very raw and not finished yet.
-[**Check out the demo**](https://spti.github.io/ridiculous-slider/demo/dist/demo-index.html)
+[**Check out the demo**](https://gottfried-github.github.io/ridiculous-slider/demo/dist/demo-index.html)
 
 **Install**
 `npm install --save ridiculous-slider || yarn add ridiculous-slider`
