@@ -1,4 +1,4 @@
-# Ridiculous Slider
+# React Bullets
 **Note:** This is very raw and not finished yet.
 [**Check out the demo**](https://gottfried-github.github.io/ridiculous-slider/demo/dist/demo-index.html)
 
