@@ -13,6 +13,9 @@
 The demo is at the port `3000`, at `demo/dist/demo-index.html`
 
 ## Overview
+The data about which slide is currently in view flows from `Slide` up through `Slot` and `Slots` to `RootSlot`. `Slot` and `Slots` compose together the data about all the `Slide`s. `RootSlot` renders the bullets.
+
+## Details
 The package consists of a few core components: `Slide`, `Slot`, `Slots` and `RootSlot`. You compose `Slides` in `Slot`s, `Slot`s in `Slots` (and `Slots` in `Slots`) and `Slots` in `RootSlot`. You write controllers that receive certain callbacks in props, use the mentioned components passing the callbacks on to those.
 
 ### Slide
